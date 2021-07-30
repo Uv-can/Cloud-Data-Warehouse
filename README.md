@@ -78,7 +78,7 @@ State and justify your database schema design and ETL pipeline.
 *start_time, hour, day, week, month, year, weekday*
 
 
-## Queries and Results
+## Results
 
 Number of rows in each table:
 
